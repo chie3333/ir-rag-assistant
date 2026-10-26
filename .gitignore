@@ -1,0 +1,25 @@
+# Local Python environment and generated files
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+
+# API keys and local credentials
+.env
+.env.*
+*.pem
+*.key
+.streamlit/*
+!.streamlit/config.toml
+
+# User documents, extracted text, cached embeddings, and local databases
+/data/*
+!/data/manifest.example.json
+/output/
+/tmp/
+*.pdf
+*.sqlite
+*.sqlite3
+*.db

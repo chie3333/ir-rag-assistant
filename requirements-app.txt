@@ -1,0 +1,5 @@
+-r requirements.txt
+numpy>=2,<3
+openai>=2,<3
+streamlit>=1.50,<2
+beautifulsoup4>=4.12,<5

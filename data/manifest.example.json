@@ -1,0 +1,53 @@
+{
+  "company": "넥스틴",
+  "documents": [
+    {
+      "id": "jul",
+      "date": "2025-07-01",
+      "date_basis": "filename",
+      "kind": "종합 IR",
+      "path": "data/pdfs/Nextin_IR_250701.pdf",
+      "cover_date_verified": false
+    },
+    {
+      "id": "aug",
+      "date": "2025-08-25",
+      "date_basis": "cover",
+      "kind": "2분기 실적 리뷰",
+      "path": "data/pdfs/NDR 자료(안)_2025년 2분기F.pdf",
+      "cover_date_verified": true
+    },
+    {
+      "id": "sep11",
+      "date": "2025-09-11",
+      "date_basis": "cover",
+      "kind": "회사소개 / NDR 파일명",
+      "path": "data/pdfs/(주)넥스틴_NDR자료 - 250911.pdf",
+      "cover_date_verified": true
+    },
+    {
+      "id": "sep30",
+      "date": "2025-09-30",
+      "date_basis": "cover",
+      "kind": "회사소개",
+      "path": "data/pdfs/(주)넥스틴_IR - 250930.pdf",
+      "cover_date_verified": true
+    },
+    {
+      "id": "oct",
+      "date": "2025-10-15",
+      "date_basis": "cover",
+      "kind": "회사소개",
+      "path": "data/pdfs/(주)넥스틴_IR - 251015.pdf",
+      "cover_date_verified": true
+    },
+    {
+      "id": "nov",
+      "date": "2025-11-27",
+      "date_basis": "cover",
+      "kind": "3분기 실적 리뷰",
+      "path": "data/pdfs/(주)넥스틴_IR_자료_251127.pdf",
+      "cover_date_verified": true
+    }
+  ]
+}
